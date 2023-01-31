@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.java": "java",
+        "queue": "cpp",
+        "stack": "cpp"
+    }
+}
